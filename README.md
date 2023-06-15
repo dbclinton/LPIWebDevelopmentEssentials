@@ -1,5 +1,5 @@
 # LPIWebDevelopmentEssentials
-Code snippets from my Complete LPI Web Development Essentials Study Guide book and course
+Here are all th code snippets from my Complete LPI Web Development Essentials Study Guide book and course
 
 Free free to make use of any and all of the key HTML, CSS, JavaScript, and Node.js code snippets you find here. They're from my [The Complete LPI Web Development Essentials Exam Study Guide book](https://www.amazon.com/dp/B0C7X2SJKZ) and from the [Udemy course of the same name](https://www.udemy.com/course/complete-lpi-web-development-essentials-exam-study-guide/?referralCode=C92570BCBB38302A9257).
 
