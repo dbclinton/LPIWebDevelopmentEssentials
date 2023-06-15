@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Result</title>
+  </head>
+  <body>
+    <h1>Selected Row:</h1>
+    <ul>
+      <% for (const [key, value] of Object.entries(selectedRow)) { %>
+        <li><strong><%= key %>:</strong> <%= value %></li>
+      <% } %>
+    </ul>
+    <a href="/">Go Back</a>
+  </body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    /* Target elements with a class */
+    .highlight {
+      background-color: yellow;
+      font-weight: bold;
+    }
+
+    /* Target elements with an ID */
+    #special {
+      color: red;
+      text-decoration: underline;
+    }
+
+    /* Target elements based on their tag name */
+    p {
+      font-size: 16px;
+    }
+
+    /* Target elements based on their relationship */
+    ul li {
+      list-style-type: square;
+    }
+
+    /* Target elements based on attribute values */
+    input[type="text"] {
+      border: 1px solid gray;
+    }
+  </style>
+</head>
+<body>
+  <h1 id="special">Welcome to my Website</h1>
+
+  <p>This paragraph will have a font size of 16 pixels.</p>
+
+  <ul>
+    <li>List item 1</li>
+    <li>List item 2</li>
+    <li class="highlight">List item 3</li>
+  </ul>
+
+  <input type="text" placeholder="Enter your name">
+</body>
+</html>
